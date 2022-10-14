@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1167329402 source:g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\segment.cpp
+	<cstdio>
+	<cstdlib>
+	<image.h>
+	<misc.h>
+	<pnmfile.h>
+	"segment-image.h"
+
+1167329416 g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\\image.h
+	<cstring>
+
+1167329410 g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\\misc.h
+	<cmath>
+
+1167329408 g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\\pnmfile.h
+	<cstdlib>
+	<climits>
+	<cstring>
+	<fstream>
+	"image.h"
+	"misc.h"
+
+1609413781 g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\segment-image.h
+	<cstdlib>
+	<image.h>
+	<misc.h>
+	<filter.h>
+	"segment-graph.h"
+
+1167329418 g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\\filter.h
+	<vector>
+	<cmath>
+	"image.h"
+	"misc.h"
+	"convolve.h"
+	"imconv.h"
+
+1167329422 g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\\convolve.h
+	<vector>
+	<algorithm>
+	<cmath>
+	"image.h"
+
+1167329414 g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\\imconv.h
+	<climits>
+	"image.h"
+	"imutil.h"
+	"misc.h"
+
+1167329412 g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\\imutil.h
+	"image.h"
+	"misc.h"
+
+1167329406 g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\segment-graph.h
+	<algorithm>
+	<cmath>
+	"disjoint-set.h"
+
+1167329420 g:\z_new_folder\数学建模\mathorcup大数据\2020mathorcup大数据挑战赛\赛道b\segment\segment\disjoint-set.h
+

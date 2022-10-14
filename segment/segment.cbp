@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="segment" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/segment" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="G:/z_new_folder/数学建模/mathorcup大数据/2020MathorCup大数据挑战赛/赛道B/segment/segment/" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/segment" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="convolve.h" />
+		<Unit filename="disjoint-set.h" />
+		<Unit filename="filter.h" />
+		<Unit filename="image.h" />
+		<Unit filename="imconv.h" />
+		<Unit filename="imutil.h" />
+		<Unit filename="misc.h" />
+		<Unit filename="pnmfile.h" />
+		<Unit filename="segment-graph.h" />
+		<Unit filename="segment-image.h" />
+		<Unit filename="segment.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
